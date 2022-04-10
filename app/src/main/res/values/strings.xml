@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <string name="web_client_id">453230617224-g2gvo729p91mt6488ikmo3i6cscgjv3k.apps.googleusercontent.com</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="login_facebook">Login Facebook</string>
+</resources>
